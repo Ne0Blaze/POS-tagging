@@ -1,0 +1,3 @@
+Using "spacy" to identify parts of speech in sentences
+We can also use spacy to identify entites in sentences i.e Date,Organisations,Countries, cities, states etc
+We can also add in new entities into the spacy vocab 
